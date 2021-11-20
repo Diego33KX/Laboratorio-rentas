@@ -1,0 +1,6 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+.body{
+    background-image: url('https://image.freepik.com/vector-gratis/diseno-fondo-moderno-blanco-3d_53876-88246.jpg%27');
+}
